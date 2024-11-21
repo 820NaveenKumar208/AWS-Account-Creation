@@ -29,8 +29,9 @@ This experiment involves creating an AWS account, configuring security settings 
 
 ![Screenshot 2024-11-21 073616](https://github.com/user-attachments/assets/3d9a0523-ab1c-4592-a0e0-9a8adde64211)
 
+![386954886-e578fb79-16e5-4c18-ac17-8c286c6f9562](https://github.com/user-attachments/assets/3b333145-6cc2-4b0c-8c57-63a566072bf1)
 
- ![387217437-801f6916-f3f2-4e47-8e89-523756459b7e](https://github.com/user-attachments/assets/6b978afb-4647-496d-acde-ab54a6ed9888)
+ 
 ![387217438-8ae6870f-689a-49be-9f87-5e6387d894a2](https://github.com/user-attachments/assets/f121d27d-7abe-4b5f-90e2-81262ad21d52)
 
  Include your Screenshots Here.
