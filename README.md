@@ -26,7 +26,8 @@ This experiment involves creating an AWS account, configuring security settings 
 ### REG NUMBER:212223220067
 ### NAME:NAVEEN KUMAR T
 
-![Uploading Screenshot 2024-11-21 073616.png…]()
+
+![Screenshot 2024-11-21 073616](https://github.com/user-attachments/assets/3d9a0523-ab1c-4592-a0e0-9a8adde64211)
 
 
  ![387217437-801f6916-f3f2-4e47-8e89-523756459b7e](https://github.com/user-attachments/assets/6b978afb-4647-496d-acde-ab54a6ed9888)
